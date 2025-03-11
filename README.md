@@ -1,6 +1,6 @@
 # video
 to show video
-![Video]([path/to/your/video.mp4](https://github.com/Senura-Peiris/video/blob/main/1%20to%204%20video.mp4))
+![Video](https://github.com/Senura-Peiris/video/blob/main/1%20to%204%20video.mp4)
 
 here is the code to display the video
 <video width="320" height="240" controls>
